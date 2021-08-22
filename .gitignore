@@ -1,0 +1,5 @@
+# repositories to ignore
+
+.idea/
+allure-results
+target/
