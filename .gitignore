@@ -1,6 +1,6 @@
 # repositories to ignore
 
-/.idea/
-/.target/
-allure-results
-target/
+/.idea/*
+/.target/*
+allure-results/*
+target/*
