@@ -2,3 +2,4 @@ allure-results
 .idea/
 .target/
 target/
+IntegrationWithJenkins.iml
