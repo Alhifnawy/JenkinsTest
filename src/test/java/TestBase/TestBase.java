@@ -12,6 +12,10 @@ import org.testng.annotations.Parameters;
 public class TestBase {
     public WebDriver driver;
 
+    public WebDriver getDriver() {
+        return driver;
+    }
+
     @Parameters("browser")
     @BeforeTest
     public void startDriver(String browser){
